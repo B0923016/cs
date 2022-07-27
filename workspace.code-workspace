@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\OneDrive\\Documents"
+		},
+		{
+			"path": "..\\..\\OneDrive\\Pictures"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
